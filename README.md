@@ -6,12 +6,6 @@ A comprehensive **Power BI Sales Dashboard** built to analyze Motorola's sales p
 
 ---
 
-# 📸 Dashboard Preview
-
-![Motorola Sales Dashboard](Images/dashboard.png)
-
----
-
 # 📖 Project Overview
 
 The Motorola Sales Dashboard provides a centralized view of sales performance by combining multiple business metrics into a single interactive dashboard. It enables users to monitor sales trends, evaluate product performance, analyze customer behavior, and identify regional sales opportunities.
